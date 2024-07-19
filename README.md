@@ -1,4 +1,4 @@
-# ReactRules 📁
+# ReactRedux 📁
 
 React with redux toolkit
 
